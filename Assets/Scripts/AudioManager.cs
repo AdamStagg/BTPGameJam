@@ -17,7 +17,15 @@ public class AudioManager : MonoBehaviour
     public AudioClip[] soundEffects;
     public AudioClip[] musicTracks;
 
+    AudioClip sound;
+
     public static void PlaySound(int soundIndex)
+    {
+        //create a sound source, play the clip, delete the component
+
+    }
+
+    public static void PlaySound(AudioClip sound)
     {
         //create a sound source, play the clip, delete the component
     }
