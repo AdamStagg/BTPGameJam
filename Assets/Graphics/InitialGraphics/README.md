@@ -2,9 +2,9 @@
 
 There are three layers of background images for the parallax effect
 
-One tree layer
+One bare tree layer (We may not need it except for scenery or something :) )
 
-a color layer
+a tree with leaves layer
 
 and the character layer.
 
