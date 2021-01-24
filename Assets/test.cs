@@ -20,9 +20,5 @@ public class test : MonoBehaviour
     }
 
 
-    void method()
-    {
-        SpriteRenderer spr = GetComponent<SpriteRenderer>();
 
-    }
 }
