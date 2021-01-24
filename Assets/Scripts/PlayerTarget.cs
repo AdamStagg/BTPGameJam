@@ -16,7 +16,22 @@ public class PlayerTarget : MonoBehaviour
         {
             if ( value == null || Vector2.Distance(transform.position, value.transform.position) <= maxDistance )
             {
+                try
+                {
+                    target.GetComponent<SpriteRenderer>().color = Color.white;
+                } catch
+                {
+
+                }
                 target = value;
+                try
+                {
+
+                target.GetComponent<SpriteRenderer>().color = Color.red;
+                } catch
+                {
+
+                }
             }
         }
     }
