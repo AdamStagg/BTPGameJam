@@ -17,12 +17,28 @@ public class TargetableObject : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collider)
     {
-        if (collision.gameObject == player.gameObject) //collided with the player
+        if (collider.gameObject == player.gameObject) //collided with the player
         {
             //tries to set the player's target to the closest object
             player.Target = FindObjectOfType<TargetableObjectsHolder>().GetClosestObject(player.transform); 
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject == player.gameObject)
+        {
+            var obj = FindObjectOfType<TargetableObjectsHolder>().GetClosestObject(player.transform);
+            if (obj != gameObject)
+            {
+                player.Target = obj;
+            }
+            else
+            {
+                player.Target = null;
+            }
         }
     }
 }

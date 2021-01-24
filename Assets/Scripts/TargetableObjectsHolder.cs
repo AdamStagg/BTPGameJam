@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TargetableObjectsHolder : MonoBehaviour
 {
-    public List<GameObject> targetableObjectsInScene = new List<GameObject>();
+    List<GameObject> targetableObjectsInScene = new List<GameObject>();
 
     private void Start()
     {
@@ -12,6 +12,7 @@ public class TargetableObjectsHolder : MonoBehaviour
         foreach (var obj in objs)
         {
             targetableObjectsInScene.Add(obj.gameObject);
+            Debug.Log(obj.name);
         }
 
     }
@@ -24,8 +25,8 @@ public class TargetableObjectsHolder : MonoBehaviour
 
         foreach (var obj in targetableObjectsInScene)
         {
-            float distance = Vector3.Distance(playerPosition.position, closestObject.transform.position);
-            if (distance <= closestDistance) // other object is closer
+            float distance = Vector2.Distance(playerPosition.position, obj.transform.position);
+            if (distance < closestDistance) // other object is closer
             {
                 closestObject = obj;
                 closestDistance = distance;

@@ -35,7 +35,7 @@ public class AudioManager : MonoBehaviour
         //create a sound source, play the clip, delete the component
     }
 
-    public void onDisable()
+    public void OnDisable()
     {
         instance = null;
     }

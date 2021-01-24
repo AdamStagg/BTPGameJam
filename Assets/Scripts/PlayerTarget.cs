@@ -14,7 +14,7 @@ public class PlayerTarget : MonoBehaviour
         }
         set
         {
-            if (Vector2.Distance(transform.position, value.transform.position) <= maxDistance)
+            if ( value == null || Vector2.Distance(transform.position, value.transform.position) <= maxDistance )
             {
                 target = value;
             }
