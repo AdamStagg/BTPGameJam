@@ -6,15 +6,20 @@ public class TargetableObject : MonoBehaviour
 {
 
     PlayerTarget player;
-    
+    Material mat;
     // Start is called before the first frame update
     void Awake()
     {
         player = FindObjectOfType<PlayerMovement>().GetComponent<PlayerTarget>(); //gets the player
+        mat = GetComponent<SpriteRenderer>().material;
         if (player == null) //checks if it was a success
         {
             throw new System.Exception();
         }
+
+        Matrix4x4 m = new Matrix4x4();
+        m = Matrix4x4.identity;
+        mat.SetMatrix("_SaturationMatrix", m);
     }
 
     private void OnTriggerEnter2D(Collider2D collider)
@@ -40,5 +45,15 @@ public class TargetableObject : MonoBehaviour
                 player.Target = null;
             }
         }
+    }
+
+    public void SetInternalMatrix(Matrix4x4 matrix)
+    {
+        mat.SetMatrix("_SaturationMatrix", matrix);
+    }
+
+    public Matrix4x4 GetInternalMatrix()
+    {
+        return mat.GetMatrix("_SaturationMatrix");
     }
 }

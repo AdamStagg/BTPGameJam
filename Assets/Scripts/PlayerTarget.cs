@@ -31,41 +31,78 @@ public class PlayerTarget : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.T))
         {
-            Debug.Log(GetAngleInRadians());
+            int column = GetAngleSegment();
+
+            int row = Mathf.FloorToInt(column / 4);
+            column -= row * 4;
+            Matrix4x4 m = target.GetComponent<TargetableObject>().GetInternalMatrix();
+            m[row, column] = m[row, column]++;
+            target.GetComponent<TargetableObject>().SetInternalMatrix(m);
         }
     }
 
     public float GetAngleInRadians()
     {
-        Vector3 difference = target.transform.position - transform.position;
-        float angle = Mathf.Atan2(difference.y, difference.x);
+        if (target != null)
+        {
 
-        if (angle < 0)
-        {
-            angle += Mathf.PI * 2;
-        } else if (angle > Mathf.PI * 2)
-        {
-            angle -= Mathf.PI * 2;
+            Vector3 difference = target.transform.position - transform.position;
+            float angle = Mathf.Atan2(difference.y, difference.x);
+
+            if (angle < 0)
+            {
+                angle += Mathf.PI * 2;
+            }
+            else if (angle > Mathf.PI * 2)
+            {
+                angle -= Mathf.PI * 2;
+            }
+
+            return angle;
         }
-
-        return angle;
+        else return 0;
     }
 
     public int GetAngleSegment()
     {
         float angle = GetAngleInRadians();
 
-        int quadrant = (int)(angle % (Mathf.PI / 2));
-
-        for (int i = 0; i < quadrant; i++)
+        int segment = Mathf.FloorToInt((float)(angle / (3.1415 / 2)));
+        for (int i = 0; i < segment; i++)
         {
             angle -= Mathf.PI / 2;
         }
 
+        segment *= 4;
+        
+        if (angle <= Mathf.PI / 24) //segment 1
+        {
+            segment += 0;
+        }
+        else if (angle > Mathf.PI / 24 && angle <= Mathf.PI * 3 / 24) //segment 2 
+        {
+            segment += 1;
+        }
+        else if (angle > Mathf.PI * 3 / 24 && angle <= Mathf.PI * 6 / 24) //segment 3
+        {
+            segment += 2;
+        }
+        else if (angle > Mathf.PI * 3 / 24 && angle <= Mathf.PI * 10 / 24) //segment 4
+        {
+            segment += 3;
+        }
+        else //segment 1 but at the next quadrant
+        {
+            segment += 4;
+        }
+        if (segment >= 16)
+        {
+            segment -= 16;
+        }
 
-
-
-        return 0;
+        
+        
+        return segment;
     }
 
 
