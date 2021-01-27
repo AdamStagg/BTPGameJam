@@ -31,13 +31,22 @@ public class PlayerTarget : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.T))
         {
-            int column = GetAngleSegment();
+            if (target != null)
+            {
+                int column = GetAngleSegment();
+                int row = Mathf.FloorToInt(column / 4);
+                column -= row * 4;
 
-            int row = Mathf.FloorToInt(column / 4);
-            column -= row * 4;
-            Matrix4x4 m = target.GetComponent<TargetableObject>().GetInternalMatrix();
-            m[row, column] = m[row, column]++;
-            target.GetComponent<TargetableObject>().SetInternalMatrix(m);
+                Matrix4x4 m = target.GetComponent<TargetableObject>().GetInternalMatrix();
+                m[row, column] = m[row, column]++;
+                target.GetComponent<TargetableObject>().SetInternalMatrix(m);
+            }
+        }
+
+        if (Input.GetKeyDown(KeyCode.Y))
+        {
+            Debug.Log("Beginning the fade");
+            Fader.instance.FadeToNextScene();
         }
     }
 
