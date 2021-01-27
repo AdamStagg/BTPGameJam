@@ -2,17 +2,32 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Rigidbody2D))]
+
 public class PlayerMovement : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    Rigidbody2D rb;
+    [SerializeField] float moveSpeed = 3;
+    [SerializeField] float playerMaxSpeed = 5;
+    void Awake()
     {
-        
+        rb = GetComponent<Rigidbody2D>();
     }
 
-    // Update is called once per frame
+    
     void Update()
     {
+        if (rb.velocity.magnitude <= playerMaxSpeed)
+        {
+                if (Input.GetAxisRaw("Horizontal") > 0.1 || Input.GetAxisRaw("Horizontal") < -0.1)
+            {
+                rb.AddForce(Vector2.right * Input.GetAxisRaw("Horizontal") * moveSpeed);
+            }
+            if (Input.GetAxisRaw("Vertical") > 0.1 || Input.GetAxisRaw("Vertical") < -0.1)
+            {
+                rb.AddForce(Vector2.up * Input.GetAxisRaw("Vertical") * moveSpeed);
+            }
+        }
         
     }
 }
