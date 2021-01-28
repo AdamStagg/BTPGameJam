@@ -8,11 +8,14 @@ public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D rb;
     Animator anim;
+    SpriteRenderer spr;
+    
     [SerializeField] float moveSpeed = 3;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
+        spr = GetComponent<SpriteRenderer>();
     }
 
 
@@ -21,6 +24,14 @@ public class PlayerMovement : MonoBehaviour
     {
         movement.x = (Input.GetAxisRaw("Horizontal") * moveSpeed * 10);
         movement.y = (Input.GetAxisRaw("Vertical") * moveSpeed * 10);
+
+        if (movement.x > 0)
+        {
+            spr.flipX = false;
+        } else if (movement.x < 0)
+        {
+            spr.flipX = true;
+        }
 
         rb.velocity = movement;
 
