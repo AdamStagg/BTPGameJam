@@ -7,27 +7,31 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     Rigidbody2D rb;
+    Animator anim;
     [SerializeField] float moveSpeed = 3;
-    [SerializeField] float playerMaxSpeed = 5;
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
-    
-    void Update()
+
+    Vector2 movement = new Vector2();
+    void FixedUpdate()
     {
-        if (rb.velocity.magnitude <= playerMaxSpeed)
+        movement.x = (Input.GetAxisRaw("Horizontal") * moveSpeed * 10);
+        movement.y = (Input.GetAxisRaw("Vertical") * moveSpeed * 10);
+
+        rb.velocity = movement;
+
+        if (rb.velocity != Vector2.zero)
         {
-                if (Input.GetAxisRaw("Horizontal") > 0.1 || Input.GetAxisRaw("Horizontal") < -0.1)
-            {
-                rb.AddForce(Vector2.right * Input.GetAxisRaw("Horizontal") * moveSpeed);
-            }
-            if (Input.GetAxisRaw("Vertical") > 0.1 || Input.GetAxisRaw("Vertical") < -0.1)
-            {
-                rb.AddForce(Vector2.up * Input.GetAxisRaw("Vertical") * moveSpeed);
-            }
+            anim.SetBool("Moving", true);
+        } else
+        {
+            anim.SetBool("Moving", false);
         }
-        
+
+
     }
 }
