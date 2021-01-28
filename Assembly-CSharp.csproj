@@ -65,6 +65,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\AudioManager.cs" />
     <Compile Include="Assets\Scripts\Fader.cs" />
+    <Compile Include="Assets\Scripts\Parallax.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\PlayerTarget.cs" />
     <Compile Include="Assets\Scripts\TargetableObject.cs" />
