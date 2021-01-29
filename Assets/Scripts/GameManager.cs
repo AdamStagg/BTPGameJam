@@ -24,7 +24,7 @@ public class GameManager : MonoBehaviour
     public AudioMixer audioMixer;
     public void SetVolume(float volume)
     {
-        audioMixer.SetFloat("Volume", Volume);
+        audioMixer.SetFloat("Volume", volume);
     }
 
 }

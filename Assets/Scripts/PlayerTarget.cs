@@ -5,24 +5,29 @@ using UnityEngine;
 public class PlayerTarget : MonoBehaviour
 {
     [SerializeField] float maxDistance;
-    private GameObject target;
+    public SpriteRenderer target;
+    [SerializeField] float drainSpeed;
+
     public GameObject Target
     {
         get
         {
-            return target;
+            return target.gameObject;
         }
         set
         {
             if (value == null || Vector2.Distance(transform.position, value.transform.position) <= maxDistance)
             {
                 if (target != null)
+                {
                     target.GetComponent<SpriteRenderer>().color = Color.white;
-
-                target = value;
-
-                if (target != null)
-                    target.GetComponent<SpriteRenderer>().color = Color.red;
+                    target = value.GetComponent<SpriteRenderer>();
+                    target.color = Color.red;
+                }
+                else
+                {
+                    target = null;
+                }
             }
         }
     }
@@ -37,9 +42,24 @@ public class PlayerTarget : MonoBehaviour
                 int row = Mathf.FloorToInt(column / 4);
                 column -= row * 4;
 
-                Matrix4x4 m = target.GetComponent<TargetableObject>().GetInternalMatrix();
-                m[row, column] = m[row, column]++;
-                target.GetComponent<TargetableObject>().SetInternalMatrix(m);
+                switch (column)
+                {
+                    case 0:
+                        target.material.SetVector("_Quad" + row, target.material.GetVector("_Quad" + row) - new Vector4(drainSpeed, 0, 0, 0));
+                        break;
+                    case 1:
+                        target.material.SetVector("_Quad" + row, target.material.GetVector("_Quad" + row) - new Vector4(0, drainSpeed, 0, 0));
+                        break;
+                    case 2:
+                        target.material.SetVector("_Quad" + row, target.material.GetVector("_Quad" + row) - new Vector4(0, 0, drainSpeed, 0));
+                        break;
+                    case 3:
+                        target.material.SetVector("_Quad" + row, target.material.GetVector("_Quad" + row) - new Vector4(0, 0, 0, drainSpeed));
+                        break;
+                    default:
+                        break;
+                }
+
             }
         }
 
