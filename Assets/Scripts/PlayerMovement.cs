@@ -22,6 +22,8 @@ public class PlayerMovement : MonoBehaviour
     Vector2 movement = new Vector2();
     void FixedUpdate()
     {
+        
+        
         movement.x = (Input.GetAxisRaw("Horizontal") * moveSpeed * 10);
         movement.y = (Input.GetAxisRaw("Vertical") * moveSpeed * 10);
 
@@ -42,6 +44,8 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetBool("Moving", false);
         }
+        Camera.main.transform.Translate(Input.GetAxisRaw("Horizontal")/(moveSpeed*2f), 0, 0);
+
 
 
     }
