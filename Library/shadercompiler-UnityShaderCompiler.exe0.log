@@ -1,9 +1,9 @@
-Base path: 'D:/Unity/Unity Editors/2019.4.18f1/Editor/Data', plugins path 'D:/Unity/Unity Editors/2019.4.18f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.4.18f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 Cmd: preprocess
   insize=2315 outsize=928 ok=1
 Cmd: preprocess
-  insize=100199 outsize=1937 ok=1
+  insize=40272 outsize=1887 ok=1
 Cmd: preprocess
   insize=811 outsize=209 ok=1
 Cmd: preprocess
@@ -201,1587 +201,49 @@ Cmd: preprocess
 Cmd: preprocess
   insize=811 outsize=209 ok=1
 Cmd: preprocess
-  insize=109928 outsize=1924 ok=1
-Cmd: preprocess
-  insize=4719 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=26411 outsize=466 ok=1
-Cmd: preprocess
-  insize=4168 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=460 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=459 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6283 outsize=465 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=460 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7529 outsize=464 ok=1
-Cmd: preprocess
-  insize=7534 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9819 outsize=464 ok=1
-Cmd: preprocess
-  insize=14947 outsize=464 ok=1
-Cmd: preprocess
-  insize=25203 outsize=464 ok=1
-Cmd: preprocess
-  insize=14960 outsize=463 ok=1
-Cmd: preprocess
-  insize=27197 outsize=463 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=109928 outsize=1924 ok=1
-Cmd: preprocess
-  insize=4719 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=26411 outsize=466 ok=1
-Cmd: preprocess
-  insize=4168 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=460 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=459 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6283 outsize=465 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=460 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7529 outsize=464 ok=1
-Cmd: preprocess
-  insize=7534 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9819 outsize=464 ok=1
-Cmd: preprocess
-  insize=14947 outsize=464 ok=1
-Cmd: preprocess
-  insize=25203 outsize=464 ok=1
-Cmd: preprocess
-  insize=14960 outsize=463 ok=1
-Cmd: preprocess
-  insize=27197 outsize=463 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=4742 outsize=460 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=7534 outsize=464 ok=1
-Cmd: preprocess
-  insize=9819 outsize=464 ok=1
-Cmd: preprocess
-  insize=14947 outsize=464 ok=1
-Cmd: preprocess
-  insize=25203 outsize=464 ok=1
-Cmd: preprocess
-  insize=26411 outsize=466 ok=1
-Cmd: preprocess
-  insize=27197 outsize=463 ok=1
-Cmd: preprocess
-  insize=109928 outsize=1924 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=7529 outsize=464 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6283 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=14960 outsize=463 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=460 ok=1
-Cmd: preprocess
-  insize=4747 outsize=459 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4719 outsize=470 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=109928 outsize=1924 ok=1
-Cmd: preprocess
-  insize=4719 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=26411 outsize=466 ok=1
-Cmd: preprocess
-  insize=4168 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=460 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=459 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6283 outsize=465 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=460 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=7529 outsize=464 ok=1
-Cmd: preprocess
-  insize=7534 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=9819 outsize=464 ok=1
-Cmd: preprocess
-  insize=14947 outsize=464 ok=1
-Cmd: preprocess
-  insize=25203 outsize=464 ok=1
-Cmd: preprocess
-  insize=14960 outsize=463 ok=1
-Cmd: preprocess
-  insize=27197 outsize=463 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=4742 outsize=460 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=4742 outsize=461 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=7534 outsize=464 ok=1
-Cmd: preprocess
-  insize=9819 outsize=464 ok=1
-Cmd: preprocess
-  insize=14947 outsize=464 ok=1
-Cmd: preprocess
-  insize=25203 outsize=464 ok=1
-Cmd: preprocess
-  insize=26411 outsize=466 ok=1
-Cmd: preprocess
-  insize=27197 outsize=463 ok=1
-Cmd: preprocess
-  insize=109928 outsize=1924 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6289 outsize=466 ok=1
-Cmd: preprocess
-  insize=7529 outsize=464 ok=1
-Cmd: preprocess
-  insize=5309 outsize=470 ok=1
-Cmd: preprocess
-  insize=6283 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=14960 outsize=463 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=465 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=4747 outsize=460 ok=1
-Cmd: preprocess
-  insize=4747 outsize=459 ok=1
-Cmd: preprocess
-  insize=4747 outsize=461 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=9832 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=7540 outsize=464 ok=1
-Cmd: preprocess
-  insize=5314 outsize=470 ok=1
-Cmd: preprocess
-  insize=6294 outsize=466 ok=1
-Cmd: preprocess
-  insize=4719 outsize=470 ok=1
-Cmd: preprocess
-  insize=5454 outsize=463 ok=1
-Cmd: preprocess
-  insize=37535 outsize=1921 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3566 outsize=463 ok=1
-Cmd: preprocess
-  insize=5096 outsize=464 ok=1
-Cmd: preprocess
-  insize=26360 outsize=464 ok=1
-Cmd: preprocess
-  insize=27144 outsize=463 ok=1
-Cmd: preprocess
-  insize=109769 outsize=1924 ok=1
-Cmd: preprocess
-  insize=100040 outsize=1937 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32732 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32732 outsize=9730 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=3933 outsize=470 ok=1
-Cmd: preprocess
-  insize=26109 outsize=464 ok=1
-Cmd: preprocess
-  insize=26893 outsize=463 ok=1
-Cmd: preprocess
-  insize=108920 outsize=1924 ok=1
-Cmd: preprocess
-  insize=99539 outsize=1936 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32565 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32565 outsize=9610 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=4668 outsize=462 ok=1
-Cmd: preprocess
-  insize=34553 outsize=1921 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3629 outsize=465 ok=1
-Cmd: preprocess
-  insize=25659 outsize=466 ok=1
-Cmd: preprocess
-  insize=4369 outsize=465 ok=1
-Cmd: preprocess
-  insize=26160 outsize=466 ok=1
-Cmd: preprocess
-  insize=33344 outsize=1932 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=10498 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=26946 outsize=463 ok=1
-Cmd: preprocess
-  insize=109079 outsize=1924 ok=1
-Cmd: preprocess
-  insize=99698 outsize=1938 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32618 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32618 outsize=9630 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3884 outsize=466 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=4244 outsize=457 ok=1
-Cmd: preprocess
-  insize=4998 outsize=458 ok=1
-Cmd: preprocess
-  insize=26811 outsize=459 ok=1
-Cmd: preprocess
-  insize=4573 outsize=462 ok=1
-Cmd: preprocess
-  insize=34220 outsize=1921 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3407 outsize=458 ok=1
-Cmd: preprocess
-  insize=26410 outsize=459 ok=1
-Cmd: preprocess
-  insize=26397 outsize=459 ok=1
-Cmd: preprocess
-  insize=26400 outsize=459 ok=1
-Cmd: preprocess
-  insize=107324 outsize=1924 ok=1
-Cmd: preprocess
-  insize=97943 outsize=1937 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32033 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32033 outsize=9654 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
   insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3407 outsize=458 ok=1
-Cmd: preprocess
-  insize=29773 outsize=1920 ok=1
-Cmd: preprocess
-  insize=26792 outsize=463 ok=1
 Cmd: preprocess
-  insize=26767 outsize=462 ok=1
-Cmd: preprocess
-  insize=26742 outsize=463 ok=1
-Cmd: preprocess
-  insize=108371 outsize=1924 ok=1
-Cmd: preprocess
-  insize=98990 outsize=1936 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32382 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32382 outsize=9630 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
   insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=26975 outsize=463 ok=1
-Cmd: preprocess
-  insize=109166 outsize=1923 ok=1
-Cmd: preprocess
-  insize=26964 outsize=463 ok=1
-Cmd: preprocess
-  insize=109133 outsize=1925 ok=1
 Cmd: preprocess
-  insize=26953 outsize=463 ok=1
-Cmd: preprocess
-  insize=109100 outsize=1925 ok=1
-Cmd: preprocess
-  insize=99719 outsize=1936 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32625 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32625 outsize=9630 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=29773 outsize=1920 ok=1
-Cmd: preprocess
   insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3833 outsize=462 ok=1
-Cmd: preprocess
-  insize=27051 outsize=463 ok=1
-Cmd: preprocess
-  insize=27015 outsize=463 ok=1
-Cmd: preprocess
-  insize=26979 outsize=463 ok=1
 Cmd: preprocess
-  insize=26953 outsize=463 ok=1
-Cmd: preprocess
-  insize=26979 outsize=463 ok=1
-Cmd: preprocess
-  insize=109202 outsize=1924 ok=1
-Cmd: preprocess
-  insize=99635 outsize=1938 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32597 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32597 outsize=9590 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=26953 outsize=463 ok=1
-Cmd: preprocess
-  insize=109100 outsize=1924 ok=1
-Cmd: preprocess
-  insize=99719 outsize=1937 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32625 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32625 outsize=9630 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=99588 outsize=1890 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=32597 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: compileSnippet
-  api=4 type=1 insize=32597 outsize=9630 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
   insize=811 outsize=209 ok=1
 Cmd: preprocess
   insize=811 outsize=209 ok=1
 Cmd: preprocess
   insize=811 outsize=209 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=4101 outsize=414 ok=1
 Cmd: preprocess
   insize=5060 outsize=418 ok=1
 Cmd: preprocess
   insize=4668 outsize=423 ok=1
 Cmd: preprocess
-  insize=4101 outsize=414 ok=1
+  insize=6808 outsize=416 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=14893 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=25136 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=14880 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=9752 outsize=417 ok=1
 Cmd: preprocess
-  insize=5060 outsize=418 ok=1
+  insize=9765 outsize=416 ok=1
 Cmd: preprocess
-  insize=4668 outsize=423 ok=1
+  insize=9765 outsize=416 ok=1
 Cmd: preprocess
-  insize=4101 outsize=414 ok=1
+  insize=9765 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=7467 outsize=416 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=7462 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=7473 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=7473 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=108969 outsize=1878 ok=1
-Cmd: preprocess
-  insize=3866 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=26093 outsize=418 ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=418 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=422 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=422 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=422 ok=1
-Cmd: preprocess
-  insize=6227 outsize=418 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5247 outsize=423 ok=1
-Cmd: preprocess
-  insize=6227 outsize=419 ok=1
-Cmd: preprocess
-  insize=4680 outsize=414 ok=1
-Cmd: preprocess
-  insize=5242 outsize=423 ok=1
-Cmd: preprocess
-  insize=6216 outsize=418 ok=1
-Cmd: preprocess
-  insize=4675 outsize=414 ok=1
-Cmd: preprocess
-  insize=5242 outsize=423 ok=1
-Cmd: preprocess
-  insize=6222 outsize=419 ok=1
-Cmd: preprocess
-  insize=4675 outsize=413 ok=1
-Cmd: preprocess
-  insize=5242 outsize=423 ok=1
-Cmd: preprocess
-  insize=6222 outsize=419 ok=1
-Cmd: preprocess
-  insize=4675 outsize=414 ok=1
-Cmd: preprocess
-  insize=5242 outsize=422 ok=1
-Cmd: preprocess
-  insize=6222 outsize=419 ok=1
-Cmd: preprocess
-  insize=4675 outsize=414 ok=1
+  insize=7473 outsize=417 ok=1
 Cmd: preprocess
   insize=7473 outsize=417 ok=1
 Cmd: preprocess
@@ -1789,390 +251,630 @@ Cmd: preprocess
 Cmd: preprocess
   insize=7473 outsize=417 ok=1
 Cmd: preprocess
-  insize=7473 outsize=417 ok=1
+  insize=4675 outsize=414 ok=1
 Cmd: preprocess
-  insize=7473 outsize=417 ok=1
+  insize=6222 outsize=419 ok=1
 Cmd: preprocess
-  insize=7473 outsize=417 ok=1
+  insize=5242 outsize=422 ok=1
 Cmd: preprocess
-  insize=7462 outsize=417 ok=1
+  insize=4675 outsize=414 ok=1
 Cmd: preprocess
-  insize=7467 outsize=416 ok=1
+  insize=6222 outsize=419 ok=1
 Cmd: preprocess
-  insize=9765 outsize=417 ok=1
+  insize=5242 outsize=423 ok=1
 Cmd: preprocess
-  insize=9765 outsize=416 ok=1
+  insize=4675 outsize=413 ok=1
 Cmd: preprocess
-  insize=9765 outsize=416 ok=1
+  insize=6222 outsize=419 ok=1
 Cmd: preprocess
-  insize=9752 outsize=417 ok=1
+  insize=5242 outsize=423 ok=1
 Cmd: preprocess
-  insize=14880 outsize=417 ok=1
+  insize=4675 outsize=414 ok=1
 Cmd: preprocess
-  insize=25136 outsize=417 ok=1
+  insize=6216 outsize=418 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=418 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=418 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6015 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=3866 outsize=423 ok=1
+Cmd: preprocess
+  insize=42243 outsize=1872 ok=1
+Cmd: preprocess
+  insize=7643 outsize=2454 ok=1
+Cmd: preprocess
+  insize=3499 outsize=1246 ok=1
+Cmd: preprocess
+  insize=12000 outsize=4583 ok=1
+Cmd: preprocess
+  insize=3524 outsize=2639 ok=1
+Cmd: preprocess
+  insize=4355 outsize=3655 ok=1
+Cmd: preprocess
+  insize=3497 outsize=1293 ok=1
+Cmd: preprocess
+  insize=10600 outsize=3936 ok=1
+Cmd: preprocess
+  insize=3071 outsize=2724 ok=1
+Cmd: preprocess
+  insize=7822 outsize=2720 ok=1
+Cmd: preprocess
+  insize=10585 outsize=3927 ok=1
+Cmd: preprocess
+  insize=3549 outsize=1653 ok=1
+Cmd: preprocess
+  insize=7674 outsize=2466 ok=1
+Cmd: preprocess
+  insize=2354 outsize=1124 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5648 outsize=3702 kw=OUTLINE_ON UNDERLAY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5648 outsize=934 kw=OUTLINE_ON UNDERLAY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5648 outsize=3098 kw=OUTLINE_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5648 outsize=578 kw=OUTLINE_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5648 outsize=3098 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=5648 outsize=498 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=5648 outsize=3702 kw=UNDERLAY_ON pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=811 outsize=209 ok=1
+Cmd: preprocess
+  insize=4101 outsize=414 ok=1
+Cmd: preprocess
+  insize=5060 outsize=418 ok=1
+Cmd: preprocess
+  insize=4668 outsize=423 ok=1
+Cmd: preprocess
+  insize=6808 outsize=416 ok=1
 Cmd: preprocess
   insize=14893 outsize=417 ok=1
 Cmd: preprocess
-  insize=26886 outsize=416 ok=1
+  insize=25136 outsize=417 ok=1
 Cmd: preprocess
-  insize=4668 outsize=423 ok=1
+  insize=14880 outsize=417 ok=1
 Cmd: preprocess
-  insize=4101 outsize=414 ok=1
+  insize=9752 outsize=417 ok=1
 Cmd: preprocess
-  insize=16118 outsize=417 ok=1
+  insize=9765 outsize=416 ok=1
 Cmd: preprocess
-  insize=17075 outsize=419 ok=1
+  insize=9765 outsize=416 ok=1
 Cmd: preprocess
-  insize=17868 outsize=416 ok=1
+  insize=9765 outsize=417 ok=1
 Cmd: preprocess
-  insize=79059 outsize=1875 ok=1
+  insize=7467 outsize=416 ok=1
+Cmd: preprocess
+  insize=7462 outsize=417 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=7473 outsize=416 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=4675 outsize=414 ok=1
+Cmd: preprocess
+  insize=6222 outsize=419 ok=1
+Cmd: preprocess
+  insize=5242 outsize=422 ok=1
+Cmd: preprocess
+  insize=4675 outsize=414 ok=1
+Cmd: preprocess
+  insize=6222 outsize=419 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=4675 outsize=413 ok=1
+Cmd: preprocess
+  insize=6222 outsize=419 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=4675 outsize=414 ok=1
+Cmd: preprocess
+  insize=6216 outsize=418 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=418 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6227 outsize=418 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=6015 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=3866 outsize=423 ok=1
+Cmd: preprocess
+  insize=42243 outsize=1872 ok=1
+Cmd: preprocess
+  insize=3866 outsize=423 ok=1
+Cmd: preprocess
+  insize=6015 outsize=419 ok=1
+Cmd: preprocess
+  insize=6808 outsize=416 ok=1
+Cmd: preprocess
+  insize=42243 outsize=1872 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=9765 outsize=417 ok=1
+Cmd: preprocess
+  insize=14893 outsize=417 ok=1
 Cmd: preprocess
   insize=25136 outsize=417 ok=1
 Cmd: preprocess
-  insize=26093 outsize=418 ok=1
+  insize=5247 outsize=423 ok=1
 Cmd: preprocess
-  insize=26886 outsize=416 ok=1
+  insize=6227 outsize=418 ok=1
 Cmd: preprocess
-  insize=108969 outsize=1878 ok=1
+  insize=5247 outsize=423 ok=1
 Cmd: preprocess
-  insize=6015 outsize=419 ok=1
+  insize=6227 outsize=419 ok=1
 Cmd: preprocess
-  insize=6808 outsize=416 ok=1
+  insize=7473 outsize=416 ok=1
 Cmd: preprocess
-  insize=42243 outsize=1873 ok=1
+  insize=5247 outsize=422 ok=1
 Cmd: preprocess
-  insize=40272 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=12823 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+  insize=6227 outsize=419 ok=1
 Cmd: preprocess
-  insize=40272 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=12823 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
+  insize=5247 outsize=422 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=6227 outsize=419 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=7473 outsize=417 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=9765 outsize=416 ok=1
 Cmd: preprocess
-  insize=811 outsize=209 ok=1
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=422 ok=1
+Cmd: preprocess
+  insize=6227 outsize=418 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=9765 outsize=416 ok=1
+Cmd: preprocess
+  insize=14880 outsize=417 ok=1
+Cmd: preprocess
+  insize=6216 outsize=418 ok=1
+Cmd: preprocess
+  insize=6222 outsize=419 ok=1
+Cmd: preprocess
+  insize=6222 outsize=419 ok=1
+Cmd: preprocess
+  insize=6222 outsize=419 ok=1
+Cmd: preprocess
+  insize=7467 outsize=416 ok=1
+Cmd: preprocess
+  insize=9752 outsize=417 ok=1
+Cmd: preprocess
+  insize=7462 outsize=417 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=6227 outsize=419 ok=1
+Cmd: preprocess
+  insize=7473 outsize=417 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=5247 outsize=423 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=5242 outsize=423 ok=1
+Cmd: preprocess
+  insize=5242 outsize=422 ok=1
+Cmd: preprocess
+  insize=4675 outsize=414 ok=1
+Cmd: preprocess
+  insize=4675 outsize=413 ok=1
+Cmd: preprocess
+  insize=4675 outsize=414 ok=1
+Cmd: preprocess
+  insize=4675 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
+Cmd: preprocess
+  insize=4680 outsize=414 ok=1
 Cmd: preprocess
   insize=4668 outsize=423 ok=1
 Cmd: preprocess
-  insize=5060 outsize=417 ok=1
-Cmd: preprocess
-  insize=4101 outsize=414 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3390 outsize=416 ok=1
-Cmd: preprocess
-  insize=5343 outsize=416 ok=1
-Cmd: preprocess
-  insize=6398 outsize=417 ok=1
-Cmd: preprocess
-  insize=7355 outsize=419 ok=1
-Cmd: preprocess
-  insize=8148 outsize=416 ok=1
-Cmd: preprocess
-  insize=46803 outsize=1874 ok=1
-Cmd: preprocess
-  insize=43896 outsize=1887 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=14031 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6986 outsize=417 ok=1
-Cmd: preprocess
-  insize=7943 outsize=419 ok=1
-Cmd: preprocess
-  insize=8736 outsize=415 ok=1
-Cmd: preprocess
-  insize=48759 outsize=1876 ok=1
-Cmd: preprocess
-  insize=46044 outsize=1885 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=14747 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=4302 outsize=418 ok=1
-Cmd: preprocess
-  insize=5095 outsize=415 ok=1
-Cmd: preprocess
-  insize=36108 outsize=1874 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3340 outsize=411 ok=1
-Cmd: preprocess
-  insize=5303 outsize=411 ok=1
-Cmd: preprocess
-  insize=5891 outsize=411 ok=1
-Cmd: preprocess
-  insize=6956 outsize=412 ok=1
-Cmd: preprocess
-  insize=7918 outsize=419 ok=1
-Cmd: preprocess
-  insize=8711 outsize=414 ok=1
-Cmd: preprocess
-  insize=48684 outsize=1876 ok=1
-Cmd: preprocess
-  insize=4302 outsize=418 ok=1
-Cmd: preprocess
-  insize=5095 outsize=415 ok=1
-Cmd: preprocess
-  insize=36108 outsize=1874 ok=1
-Cmd: preprocess
-  insize=5060 outsize=417 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=419 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=42429 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=13542 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=5648 outsize=417 ok=1
-Cmd: preprocess
-  insize=6603 outsize=419 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1873 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=419 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=5648 outsize=418 ok=1
-Cmd: preprocess
-  insize=6603 outsize=419 ok=1
-Cmd: preprocess
-  insize=7396 outsize=415 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1873 ok=1
-Cmd: preprocess
-  insize=5608 outsize=419 ok=1
-Cmd: preprocess
-  insize=6563 outsize=419 ok=1
-Cmd: preprocess
-  insize=7356 outsize=416 ok=1
-Cmd: preprocess
-  insize=44055 outsize=1873 ok=1
-Cmd: preprocess
-  insize=5608 outsize=419 ok=1
-Cmd: preprocess
-  insize=6563 outsize=419 ok=1
-Cmd: preprocess
-  insize=7356 outsize=415 ok=1
-Cmd: preprocess
-  insize=44055 outsize=1874 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=419 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=4302 outsize=418 ok=1
-Cmd: preprocess
-  insize=5095 outsize=415 ok=1
-Cmd: preprocess
-  insize=36108 outsize=1874 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3371 outsize=411 ok=1
-Cmd: preprocess
-  insize=4917 outsize=412 ok=1
-Cmd: preprocess
-  insize=5513 outsize=413 ok=1
-Cmd: preprocess
-  insize=4891 outsize=412 ok=1
-Cmd: preprocess
-  insize=5513 outsize=413 ok=1
-Cmd: preprocess
-  insize=6474 outsize=419 ok=1
-Cmd: preprocess
-  insize=7267 outsize=416 ok=1
-Cmd: preprocess
-  insize=43788 outsize=1873 ok=1
-Cmd: preprocess
-  insize=42246 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=13481 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=4302 outsize=418 ok=1
-Cmd: preprocess
-  insize=5095 outsize=415 ok=1
-Cmd: preprocess
-  insize=36108 outsize=1874 ok=1
-Cmd: preprocess
-  insize=811 outsize=209 ok=1
-Cmd: preprocess
-  insize=3532 outsize=418 ok=1
-Cmd: preprocess
-  insize=4114 outsize=418 ok=1
-Cmd: preprocess
   insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=34815 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=11004 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=6603 outsize=418 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=42429 outsize=1887 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=13542 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=6015 outsize=419 ok=1
-Cmd: preprocess
-  insize=6808 outsize=416 ok=1
-Cmd: preprocess
-  insize=42243 outsize=1872 ok=1
-Cmd: preprocess
-  insize=40269 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=12822 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=418 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=42429 outsize=1887 ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=6015 outsize=419 ok=1
-Cmd: preprocess
-  insize=6808 outsize=416 ok=1
-Cmd: preprocess
-  insize=42243 outsize=1872 ok=1
-Cmd: preprocess
-  insize=40269 outsize=1886 ok=1
-Cmd: preprocess
-  insize=40269 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=12822 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=418 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=42429 outsize=1887 ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=6015 outsize=419 ok=1
-Cmd: preprocess
-  insize=6808 outsize=416 ok=1
-Cmd: preprocess
-  insize=42243 outsize=1872 ok=1
-Cmd: preprocess
-  insize=40269 outsize=1886 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=418 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=6015 outsize=419 ok=1
-Cmd: preprocess
-  insize=6808 outsize=416 ok=1
-Cmd: preprocess
-  insize=42243 outsize=1872 ok=1
-Cmd: preprocess
-  insize=40272 outsize=1887 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=12823 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=418 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=42429 outsize=1886 ok=1
-Cmd: compileSnippet
-  api=4 type=0 insize=13542 outsize=802 kw=ETC1_EXTERNAL_ALPHA pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=6015 outsize=419 ok=1
-Cmd: preprocess
-  insize=6808 outsize=416 ok=1
-Cmd: preprocess
-  insize=42243 outsize=1872 ok=1
-Cmd: preprocess
-  insize=40272 outsize=1887 ok=1
-Cmd: preprocess
-  insize=5648 outsize=419 ok=1
-Cmd: preprocess
-  insize=6603 outsize=418 ok=1
-Cmd: preprocess
-  insize=7396 outsize=416 ok=1
-Cmd: preprocess
-  insize=44199 outsize=1874 ok=1
-Cmd: preprocess
-  insize=42429 outsize=1886 ok=1
-Cmd: preprocess
-  insize=5060 outsize=418 ok=1
-Cmd: preprocess
-  insize=6015 outsize=419 ok=1
-Cmd: preprocess
-  insize=6808 outsize=416 ok=1
-Cmd: preprocess
-  insize=42243 outsize=1872 ok=1
-Cmd: preprocess
-  insize=40272 outsize=1887 ok=1
